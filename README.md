@@ -1,10 +1,12 @@
-Solar Charging Control and Monitoring System Using Arduino, LCD, and Current/Voltage Sensors ,ldr sensor
+Solar Charging Control and Monitoring System Using Arduino, LCD, Current/Voltage Sensors,ldr sensor, and stepper motor.
 Understanding the Components:
 
 Arduino: A microcontroller board that serves as the brain of the system, controlling the charging process and displaying information on the LCD.
 LCD (Liquid Crystal Display): A display screen used to show real-time data like battery voltage, current, and charging status.
 Current Sensor: Measures the current flowing into or out of the battery.
 Voltage Sensor: Measures the voltage of the battery.
+
+Stepper motor: this motor will rotate to change the position of the solar panel attached to it, when the sunshine reduces it will change the direction and position .
 System Workflow:
 
 Power Supply: The solar panel provides power to the system.
